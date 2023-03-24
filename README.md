@@ -4,5 +4,5 @@
 
 
 ## A new Generation Weather App developed by Openweathermap API 
-Devlope and Design by @ehsanjavadip <br />
+Develop and Design by @ehsanjavadip <br />
 Contribute by @alirezafekri
